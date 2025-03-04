@@ -5,6 +5,27 @@
 			"style": {
 				"navigationBarTitleText": "uni-app"
 			}
+		},
+		{
+			"path" : "pages/ToDo/ToDo",
+			"style" : 
+			{
+				"navigationBarTitleText" : "待办事项"
+			}
+		},
+		{
+			"path" : "pages/OA/OA",
+			"style" : 
+			{
+				"navigationBarTitleText" : "办公"
+			}
+		},
+		{
+			"path" : "pages/mine/mine",
+			"style" : 
+			{
+				"navigationBarTitleText" : "我的"
+			}
 		}
 	],
 	"globalStyle": {
